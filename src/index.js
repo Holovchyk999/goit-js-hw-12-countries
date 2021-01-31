@@ -1,2 +1,4 @@
-import './js/app';
-import './js/pnotify'
+import './styles.css';
+import './js/imageSearch';
+
+
